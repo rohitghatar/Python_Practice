@@ -1,0 +1,19 @@
+customer name Rohit's account opened with account no 101 and his opening balance is : 7500 his account created at 2023-07-03 19:57:18
+ 5000 deposite by name : Rohit, account no. 101 at 2023-07-03 19:57:57
+
+ 1000 withdraw by name : Rohit, account no. 101 at 2023-07-03 19:58:12
+customer name roy's account opened with account no 102 and his opening balance is : 6500 his account created at 2023-07-03 19:58:41
+customer name sanket's account opened with account no 78 and his opening balance is : 7500 his account created at 2023-07-05 17:33:13
+customer name mitesh's account opened with account no 5641 and his opening balance is : 10000 his account created at 2023-07-05 17:33:29
+ 9500 withdraw by name : mitesh, account no. 5641 at 2023-07-05 17:35:22
+
+ 5000 deposite by name : rohit, account no. 101 at 2023-07-06 11:43:32
+
+ 3000 withdraw by name : rohit, account no. 101 at 2023-07-06 11:43:41
+
+ 5000 deposite by name : rohit, account no. 101 at 2023-07-06 11:52:21
+
+ 222 deposite by name : rohit, account no. 101 at 2023-07-06 11:52:57
+
+customer name roy's account opened with account no 102 and his opening balance is : 7500 his account created at 2023-07-06 11:54:51
+ 4500 deposite by name : rohit, account no. 101 at 2023-07-06 12:05:21
