@@ -1,5 +1,3 @@
-# Q. Write a Python program to get the Fibonacci series of given range.
-
 range_limit = int(input("Enter the range limit: "))
 
 num1 = 0

@@ -1,9 +1,14 @@
-def insert_string_in_middle(main_string, string_to_insert):
-    mid_index = len(main_string) // 2
-    return main_string[:mid_index] + string_to_insert + main_string[mid_index:]
+# Write a Python function that takes a list of words and returns the length of the longest one.
 
-# Example usage
-main_string = "Hello World"
-string_to_insert = "Python"
-result = insert_string_in_middle(main_string, string_to_insert)
-print("Result:", result)
+def max_length(list_of_words):
+    for i in range(list_of_words):
+        
+
+words = []
+
+num_of_words = int(input("how many words you want to insert : "))
+
+for i in range(1, num_of_words+1):
+    your_word = input(f"enter your {i} word : ")
+    words.append(your_word)
+

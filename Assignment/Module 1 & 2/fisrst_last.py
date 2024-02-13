@@ -13,5 +13,4 @@ if len(string) >= 2:
     result = first_two + last_two
 else:
     result = ""
-
 print("Result:", result)

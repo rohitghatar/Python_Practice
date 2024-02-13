@@ -112,7 +112,7 @@ def operation_3(data1) :
             values = data1[ac_no]
             if ac_no in data1:
                 if name in values.values():
-                    print(f"\naccount no of {ac_no} \ncustomer's name is {values['name']} \nhis bank balance is : {values['balance']} \nhis Opening Date is {values['Opening Date']}")
+                    print(f"\nDetails of account no {ac_no} \ncustomer's name is {values['name']} \nhis bank balance is : {values['balance']} \nhis Opening Date is {values['Opening Date']}")
                     break
                 else:
                     print("\nEnter correct name")

@@ -17,3 +17,7 @@ customer name mitesh's account opened with account no 5641 and his opening balan
 
 customer name roy's account opened with account no 102 and his opening balance is : 7500 his account created at 2023-07-06 11:54:51
  4500 deposite by name : rohit, account no. 101 at 2023-07-06 12:05:21
+
+ 1200 deposite by name : rohit, account no. 101 at 2024-01-26 18:42:51
+customer name tsylor's account opened with account no 102 and his opening balance is : 4500 his account created at 2024-01-26 18:43:39
+ 1000 withdraw by name : rohit, account no. 101 at 2024-01-26 18:49:41
